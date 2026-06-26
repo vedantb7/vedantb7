@@ -9,19 +9,21 @@
 
 </div>
 
+
+
 ---
 
 # 💻 whoami
 
 ```cpp
 class Vedant {
-  public:
+public:
 
     string education =
         "B.Tech Computer Science @ IIT Gandhinagar";
 
     vector<string> domains = {
-      "Systems Programming",
+        "Systems Programming",
         "Full Stack",
         "Cybersecurity",
         "Networking",
@@ -29,14 +31,14 @@ class Vedant {
     };
 
     vector<string> currently_learning = {
-      "Software Dev",
+        "Software Dev",
         "Cybersecurity",
         "Operating Systems",
         "Network"
     };
 
     string philosophy() {
-      return "Understand the system before optimizing it.";
+        return "Understand the system before optimizing it.";
     }
 };
 ```
@@ -234,19 +236,22 @@ class Vedant {
 
 ---
 
+<div align="center>
+<p>
+
+<a href="https://github.com/vedantb7">
+<img src="https://img.shields.io/github/followers/vedantb7?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=vedantb7">
+<img src="https://komarev.com/ghpvc/?username=vedantb7&style=for-the-badge"/>
+</a>
+
+</p>
+</div>
+
 <div align="center">
 
 > **"Programs are meant to be read by humans and only incidentally for computers to execute."**
-      <p>
-      
-      <a href="https://github.com/vedantb7">
-      <img src="https://img.shields.io/github/followers/vedantb7?label=Followers&style=for-the-badge"/>
-      </a>
-      
-      <a href="https://komarev.com/ghpvc/?username=vedantb7">
-      <img src="https://komarev.com/ghpvc/?username=vedantb7&style=for-the-badge"/>
-      </a>
-      
-      </p>
 
 </div>
