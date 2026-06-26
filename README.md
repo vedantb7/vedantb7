@@ -6,17 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+IIT+Gandhinagar;Building+Systems+Close+to+the+Metal;Backend+%7C+Networking+%7C+Security;Learning+One+Bug+at+a+Time"/>
 
-<p>
-
-<a href="https://github.com/vedantb7">
-<img src="https://img.shields.io/github/followers/vedantb7?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=vedantb7">
-<img src="https://komarev.com/ghpvc/?username=vedantb7&style=for-the-badge"/>
-</a>
-
-</p>
 
 </div>
 
@@ -26,13 +15,13 @@
 
 ```cpp
 class Vedant {
-public:
+  public:
 
     string education =
         "B.Tech Computer Science @ IIT Gandhinagar";
 
     vector<string> domains = {
-        "Systems Programming",
+      "Systems Programming",
         "Full Stack",
         "Cybersecurity",
         "Networking",
@@ -40,14 +29,14 @@ public:
     };
 
     vector<string> currently_learning = {
-        "Software Dev",
+      "Software Dev",
         "Cybersecurity",
         "Operating Systems",
         "Network"
     };
 
     string philosophy() {
-        return "Understand the system before optimizing it.";
+      return "Understand the system before optimizing it.";
     }
 };
 ```
@@ -248,5 +237,16 @@ public:
 <div align="center">
 
 > **"Programs are meant to be read by humans and only incidentally for computers to execute."**
+      <p>
+      
+      <a href="https://github.com/vedantb7">
+      <img src="https://img.shields.io/github/followers/vedantb7?label=Followers&style=for-the-badge"/>
+      </a>
+      
+      <a href="https://komarev.com/ghpvc/?username=vedantb7">
+      <img src="https://komarev.com/ghpvc/?username=vedantb7&style=for-the-badge"/>
+      </a>
+      
+      </p>
 
 </div>
