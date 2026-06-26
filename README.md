@@ -33,23 +33,17 @@ public:
 
     vector<string> domains = {
         "Systems Programming",
-        "Backend Engineering",
+        "Full Stack",
         "Cybersecurity",
         "Networking",
         "Databases"
     };
 
-    vector<string> currently_building = {
-        "Distributed Systems",
-        "Storage Engines",
-        "Developer Tools"
-    };
-
     vector<string> currently_learning = {
-        "Rust",
-        "Linux Internals",
+        "Software Dev",
+        "Cybersecurity",
         "Operating Systems",
-        "Network Protocols"
+        "Network"
     };
 
     string philosophy() {
@@ -62,42 +56,91 @@ public:
 
 # ⚡ Tech Arsenal
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,js,ts,sql,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,sql,bash" />
+<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" />
 </p>
 
-### Backend
+---
+
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### Databases
+---
+
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Systems & DevOps
+---
+
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/B%2B%20Tree-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WAL-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACID-008080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sharding-0066CC?style=for-the-badge" />
 </p>
 
-### Security Toolkit
+---
 
-```text
-Linux
-Networking
-Wireshark
-Burp Suite
-Nmap
-Metasploit
-John the Ripper
-OWASP
-```
+### 🤖 Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
+
+---
+
+### 🖥️ Systems Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,bash" />
+<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Socket%20Programming-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TUN/TAP-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux%20Namespaces-E95420?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Concurrency-7952B3?style=for-the-badge" />
+</p>
+
+---
+
+### 🔒 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Red%20Teaming-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-2A3F5F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
@@ -105,25 +148,14 @@ OWASP
 
 ```text
 ├── Systems Programming
-├── Backend Architecture
+├── Web Dev
 ├── Network Programming
-├── Database Internals
+├── Software Dev
 ├── Cybersecurity
 ├── Distributed Systems
 ├── Linux
 └── Developer Tooling
 ```
-
----
-
-# 📚 Currently Exploring
-
-* ⚙️ Linux Networking & Kernel Interfaces
-* 🦀 Rust for Systems Development
-* 🌐 Network Protocol Design
-* 🗄️ Database Storage Engines
-* 🔒 Offensive & Defensive Security
-* ☁️ Distributed Backend Systems
 
 ---
 
