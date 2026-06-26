@@ -1,102 +1,150 @@
-# <div align="center">Hi 👋, I'm Vedant Bondekar</div>
-
 <div align="center">
 
-### Systems Programming • Web Development • Cybersecurity
+# Hi there 👋 I'm Vedant Bondekar
 
-Building software that lives close to the system.
+### Systems Programming • Backend Engineering • Cybersecurity
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+IIT+Gandhinagar;Building+Systems+Close+to+the+Metal;Backend+%7C+Networking+%7C+Security;Learning+One+Bug+at+a+Time"/>
 
-<div align="center">
+<p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1200\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=CSE+Sophomore+%40+IIT+Gandhinagar;Systems+Programming+Enthusiast;Backend+Developer;Cybersecurity+Explorer;Always+Building+Something+New)](https://git.io/typing-svg)
+<a href="https://github.com/vedantb7">
+<img src="https://img.shields.io/github/followers/vedantb7?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=vedantb7">
+<img src="https://komarev.com/ghpvc/?username=vedantb7&style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💻 whoami
 
 ```cpp
 class Vedant {
 public:
-    string education = "B.Tech CSE @ IIT Gandhinagar";
 
-    vector<string> interests = {
+    string education =
+        "B.Tech Computer Science @ IIT Gandhinagar";
+
+    vector<string> domains = {
         "Systems Programming",
         "Backend Engineering",
         "Cybersecurity",
-        "Distributed Systems",
+        "Networking",
         "Databases"
     };
 
-    vector<string> currentlyLearning = {
-        "Rust",
-        "Linux Internals",
-        "Network Programming",
-        "Storage Engines"
+    vector<string> currently_building = {
+        "Distributed Systems",
+        "Storage Engines",
+        "Developer Tools"
     };
 
-    string motto() {
-        return "Build things that are fast, reliable and secure.";
+    vector<string> currently_learning = {
+        "Rust",
+        "Linux Internals",
+        "Operating Systems",
+        "Network Protocols"
+    };
+
+    string philosophy() {
+        return "Understand the system before optimizing it.";
     }
 };
 ```
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,js,ts,sql,bash"/>
 </p>
 
-### Backend & Web
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react"/>
 </p>
 
-### DevOps & Tools
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
+
+### Systems & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
+</p>
+
+### Security Toolkit
+
+```text
+Linux
+Networking
+Wireshark
+Burp Suite
+Nmap
+Metasploit
+John the Ripper
+OWASP
+```
 
 ---
 
-## 🎯 Current Focus
+# 🧠 Engineering Interests
 
-* ⚙️ Systems Programming with **C++ & Rust**
-* 🌐 Backend Architecture & APIs
-* 🔒 Security Engineering & Defensive Tooling
-* 🗄️ Storage Engines & Database Internals
-* 🧠 Applied Machine Learning for Security
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantb7&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantb7&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vedantb7&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+```text
+├── Systems Programming
+├── Backend Architecture
+├── Network Programming
+├── Database Internals
+├── Cybersecurity
+├── Distributed Systems
+├── Linux
+└── Developer Tooling
+```
 
 ---
 
-## 📈 Contribution Graph
+# 📚 Currently Exploring
+
+* ⚙️ Linux Networking & Kernel Interfaces
+* 🦀 Rust for Systems Development
+* 🌐 Network Protocol Design
+* 🗄️ Database Storage Engines
+* 🔒 Offensive & Defensive Security
+* ☁️ Distributed Backend Systems
+
+---
+
+# 🛠️ Current Workflow
+
+```text
+        Problem
+           │
+           ▼
+      Break it down
+           │
+           ▼
+  Design → Implement → Benchmark
+           │
+           ▼
+      Iterate Until Better
+```
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -106,7 +154,7 @@ public:
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -116,17 +164,7 @@ public:
 
 ---
 
-## 💻 Currently Exploring
-
-* Linux Kernel Concepts
-* Network Security
-* Distributed Systems
-* Storage Engines
-* High Performance Backend Systems
-
----
-
-## 🌍 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -134,12 +172,12 @@ public:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/vedantb7">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://vedantb7.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:vedant.bondekar@iitgn.ac.in">
+<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -148,14 +186,6 @@ public:
 
 <div align="center">
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+> **"Programs are meant to be read by humans and only incidentally for computers to execute."**
 
 </div>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=vedantb7\&style=for-the-badge)
-
-</p>
