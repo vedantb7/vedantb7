@@ -104,7 +104,6 @@ public:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/B+_Tree-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Write_Ahead_Logging-37474F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ACID_Transactions-00695C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Horizontal_Sharding-1976D2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Role_Based_Access_Control-5E35B1?style=for-the-badge"/>
@@ -130,14 +129,11 @@ public:
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/POSIX-555555?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Socket_Programming-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCP/IP-1565C0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UDP-3949AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TUN/TAP-212121?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux_Namespaces-E95420?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NAT-0277BD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Split_Tunneling-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Concurrency-8E24AA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multithreading-455A64?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Performance_Optimization-43A047?style=for-the-badge"/>
@@ -156,8 +152,6 @@ public:
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
 <img src="https://img.shields.io/badge/Metasploit-2A3F5F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Phishing_Detection-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/URL_Analysis-5E35B1?style=for-the-badge"/>
 </p>
 
 ---
