@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Vedant Bondekar
 
-### Systems Programming • Backend Engineering • Cybersecurity
+### Programming • Web Development • Cybersecurity
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+IIT+Gandhinagar;Building+Systems+Close+to+the+Metal;Backend+%7C+Networking+%7C+Security;Learning+One+Bug+at+a+Time"/>
 
