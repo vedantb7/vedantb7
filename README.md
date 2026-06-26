@@ -59,8 +59,12 @@ public:
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,sql,bash" />
-<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" />
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
 </p>
 
 ---
@@ -68,7 +72,10 @@ public:
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 </p>
 
 ---
@@ -76,7 +83,10 @@ public:
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
 </p>
 
 ---
@@ -84,11 +94,11 @@ public:
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/B%2B%20Tree-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WAL-555555?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACID-008080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sharding-0066CC?style=for-the-badge" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![B+ Tree](https://img.shields.io/badge/B+_Tree-00599C?style=for-the-badge)
+![ACID](https://img.shields.io/badge/ACID-00695C?style=for-the-badge)
+![WAL](https://img.shields.io/badge/WAL-37474F?style=for-the-badge)
 </p>
 
 ---
@@ -121,14 +131,11 @@ public:
 ### 🔒 Cybersecurity
 
 <p>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Red%20Teaming-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Metasploit-2A3F5F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/John%20the%20Ripper-CC0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A3F5F?style=for-the-badge)
 </p>
 
 ---
@@ -136,10 +143,10 @@ public:
 ### 🛠️ Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 </p>
 
 ---
