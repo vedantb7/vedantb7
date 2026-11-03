@@ -1,0 +1,211 @@
+<svg width="850" height="280" viewBox="0 0 850 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0f1923"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#00d4ff;stop-opacity:0.8"/>
+      <stop offset="60%" style="stop-color:#7c3aed;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+
+    <!-- Card 1: zeroVPN — teal -->
+    <linearGradient id="card1Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.10"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+    <!-- Card 2: trado — purple -->
+    <linearGradient id="card2Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.10"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+    <!-- Card 3: pcap-analyzer — orange -->
+    <linearGradient id="card3Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:0.10"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+
+    <style>
+      @keyframes fadeSlideUp {
+        from { opacity: 0; transform: translateY(16px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes borderPulse {
+        0%,100% { opacity: 0.25; }
+        50%      { opacity: 0.6;  }
+      }
+      @keyframes dotBlink {
+        0%,100% { opacity: 1; }
+        50%      { opacity: 0.3; }
+      }
+      @keyframes lineGrow {
+        from { stroke-dashoffset: 260; }
+        to   { stroke-dashoffset: 0; }
+      }
+
+      .card1 { animation: fadeSlideUp 0.8s cubic-bezier(0.22,1,0.36,1) 0.3s both; }
+      .card2 { animation: fadeSlideUp 0.8s cubic-bezier(0.22,1,0.36,1) 0.5s both; }
+      .card3 { animation: fadeSlideUp 0.8s cubic-bezier(0.22,1,0.36,1) 0.7s both; }
+
+      .border1 { animation: borderPulse 4s ease-in-out infinite; }
+      .border2 { animation: borderPulse 4s ease-in-out 1s infinite; }
+      .border3 { animation: borderPulse 4s ease-in-out 2s infinite; }
+
+      .lang-dot1 { animation: dotBlink 2s ease-in-out infinite; }
+      .lang-dot2 { animation: dotBlink 2s ease-in-out 0.7s infinite; }
+      .lang-dot3 { animation: dotBlink 2s ease-in-out 1.4s infinite; }
+
+      .divline1 { stroke-dasharray: 220; stroke-dashoffset: 220;
+                  animation: lineGrow 0.8s ease 0.6s forwards; }
+      .divline2 { stroke-dasharray: 220; stroke-dashoffset: 220;
+                  animation: lineGrow 0.8s ease 0.8s forwards; }
+      .divline3 { stroke-dasharray: 220; stroke-dashoffset: 220;
+                  animation: lineGrow 0.8s ease 1.0s forwards; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="280" rx="12" fill="url(#bg)"/>
+  <rect width="850" height="280" rx="12" fill="url(#dots)"/>
+  <rect x="0" y="0" width="850" height="2" rx="1" fill="url(#accentLine)"/>
+
+  <!-- Section label -->
+  <text x="425" y="30" font-family="'JetBrains Mono','Fira Code',monospace"
+        font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="3">
+    FEATURED PROJECTS
+  </text>
+  <line x1="180" y1="36" x2="670" y2="36" stroke="url(#accentLine)" stroke-width="0.6" opacity="0.5"/>
+
+  <!-- ══════════════════════════════════
+       CARD 1 — zeroVPN
+  ════════════════════════════════════ -->
+  <g class="card1">
+    <!-- Card bg -->
+    <rect x="20" y="48" width="262" height="210" rx="10" fill="url(#card1Grad)"/>
+    <rect class="border1" x="20" y="48" width="262" height="210" rx="10"
+          fill="none" stroke="#00d4ff" stroke-width="0.9"/>
+
+    <!-- Top bar accent -->
+    <rect x="20" y="48" width="262" height="3" rx="1" fill="#00d4ff" opacity="0.6"/>
+
+    <!-- Header row -->
+    <text x="38" y="77" font-family="'Segoe UI','Inter',sans-serif"
+          font-size="16" font-weight="700" fill="#e2e8f0" letter-spacing="0.3">zeroVPN</text>
+
+    <!-- Language dot + label -->
+    <circle class="lang-dot1" cx="38" cy="96" r="5" fill="#00599C"/>
+    <text x="51" y="101" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#94a3b8">C / C++</text>
+
+    <!-- Star icon (★) -->
+    <text x="232" y="101" font-family="'Segoe UI',sans-serif"
+          font-size="10" fill="#fbbf24">★  systems</text>
+
+    <!-- Divider -->
+    <line class="divline1" x1="38" y1="110" x2="260" y2="110"
+          stroke="#00d4ff" stroke-width="0.5" opacity="0.25"/>
+
+    <!-- Description -->
+    <text x="38" y="130" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">Custom VPN tunnel over</text>
+    <text x="38" y="147" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">TUN/TAP + Linux namespaces</text>
+    <text x="38" y="164" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">with socket-level encryption.</text>
+
+    <!-- Architecture tag -->
+    <rect x="38" y="178" width="116" height="20" rx="4" fill="#00d4ff" opacity="0.1"/>
+    <rect x="38" y="178" width="116" height="20" rx="4" fill="none" stroke="#00d4ff" stroke-width="0.6" opacity="0.4"/>
+    <text x="96" y="193" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#00d4ff" text-anchor="middle">Layer-3 Tunneling</text>
+
+    <!-- Bottom link -->
+    <text x="38" y="242" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#00d4ff" opacity="0.7">→ github.com/vedantb7/zeroVPN</text>
+  </g>
+
+  <!-- ══════════════════════════════════
+       CARD 2 — trado
+  ════════════════════════════════════ -->
+  <g class="card2">
+    <rect x="294" y="48" width="262" height="210" rx="10" fill="url(#card2Grad)"/>
+    <rect class="border2" x="294" y="48" width="262" height="210" rx="10"
+          fill="none" stroke="#7c3aed" stroke-width="0.9"/>
+    <rect x="294" y="48" width="262" height="3" rx="1" fill="#7c3aed" opacity="0.6"/>
+
+    <text x="312" y="77" font-family="'Segoe UI','Inter',sans-serif"
+          font-size="16" font-weight="700" fill="#e2e8f0" letter-spacing="0.3">trado</text>
+
+    <circle class="lang-dot2" cx="312" cy="96" r="5" fill="#3178C6"/>
+    <text x="325" y="101" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#94a3b8">TypeScript</text>
+
+    <text x="490" y="101" font-family="'Segoe UI',sans-serif"
+          font-size="10" fill="#fbbf24">★★  web</text>
+
+    <line class="divline2" x1="312" y1="110" x2="534" y2="110"
+          stroke="#7c3aed" stroke-width="0.5" opacity="0.25"/>
+
+    <text x="312" y="130" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">Full-stack trading journal</text>
+    <text x="312" y="147" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">with real-time WebSocket</text>
+    <text x="312" y="164" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">feeds &amp; REST API backend.</text>
+
+    <rect x="312" y="178" width="104" height="20" rx="4" fill="#7c3aed" opacity="0.1"/>
+    <rect x="312" y="178" width="104" height="20" rx="4" fill="none" stroke="#7c3aed" stroke-width="0.6" opacity="0.4"/>
+    <text x="364" y="193" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#a78bfa" text-anchor="middle">Event-Driven SPA</text>
+
+    <text x="312" y="242" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#a78bfa" opacity="0.7">→ github.com/vedantb7/trado</text>
+  </g>
+
+  <!-- ══════════════════════════════════
+       CARD 3 — pcap-analyzer
+  ════════════════════════════════════ -->
+  <g class="card3">
+    <rect x="568" y="48" width="262" height="210" rx="10" fill="url(#card3Grad)"/>
+    <rect class="border3" x="568" y="48" width="262" height="210" rx="10"
+          fill="none" stroke="#f97316" stroke-width="0.9"/>
+    <rect x="568" y="48" width="262" height="3" rx="1" fill="#f97316" opacity="0.6"/>
+
+    <text x="586" y="77" font-family="'Segoe UI','Inter',sans-serif"
+          font-size="16" font-weight="700" fill="#e2e8f0" letter-spacing="0.3">pcap-analyzer</text>
+
+    <circle class="lang-dot3" cx="586" cy="96" r="5" fill="#f34b7d"/>
+    <text x="599" y="101" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#94a3b8">C++</text>
+
+    <text x="726" y="101" font-family="'Segoe UI',sans-serif"
+          font-size="10" fill="#fbbf24">★  security</text>
+
+    <line class="divline3" x1="586" y1="110" x2="808" y2="110"
+          stroke="#f97316" stroke-width="0.5" opacity="0.25"/>
+
+    <text x="586" y="130" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">Offline PCAP deep-inspection</text>
+    <text x="586" y="147" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">tool parsing TCP/UDP streams</text>
+    <text x="586" y="164" font-family="'Segoe UI',sans-serif"
+          font-size="12" fill="#94a3b8">with protocol fingerprinting.</text>
+
+    <rect x="586" y="178" width="124" height="20" rx="4" fill="#f97316" opacity="0.1"/>
+    <rect x="586" y="178" width="124" height="20" rx="4" fill="none" stroke="#f97316" stroke-width="0.6" opacity="0.4"/>
+    <text x="648" y="193" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#fb923c" text-anchor="middle">Packet Dissection Engine</text>
+
+    <text x="586" y="242" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#fb923c" opacity="0.7">→ github.com/vedantb7/pcap-analyzer</text>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="278" width="850" height="2" rx="1" fill="url(#accentLine)"/>
+</svg>
